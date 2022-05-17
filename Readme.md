@@ -1,6 +1,6 @@
-Tópicos
+Tópicos:
 
-Lógica em programação
-Operações matematicas em C
-If ... Else
-While ... Do
+Lógica em programação;
+Operações matemáticas em C;
+If ... Else;
+While ... Do;
